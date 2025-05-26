@@ -7,7 +7,7 @@ Name of the repo to be changed
 ## DevOps stuff
 In short, this is how pushing code to main will happen:
 
-To start, clone the repo and install all of the node packages:
+To start, clone tasdfsafsafsafasfahe repo and install all of the node packages:
 
 ```bash
 $ git clone https://github.com/cse110-sp25-group-10/Flashcard-Project.git
