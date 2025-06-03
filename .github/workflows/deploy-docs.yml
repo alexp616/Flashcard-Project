@@ -24,7 +24,7 @@ jobs:
         env: 
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           COMMIT: ${{ github.sha }}
-          ORG_NAME: cse110-sp25-group-10
+          ORG_NAME: alexp616
           PROJECT_REPO_NAME: Flashcard-Project
           REPO_NAME: Flashcard-Project-Docs
         run: |

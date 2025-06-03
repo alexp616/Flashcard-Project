@@ -3,7 +3,7 @@
  * @param {string} frontText The text for the front of the card
  * @param {string} backText The text for the back of the card
  * @param {number} time The time length the user expects to spend on a card (in seconds)
- * @returns A JS object representing the speech card if valid and null otherwise
+ * @returns A JS object representing the speech card 
  */
 export const Card = function createCard(frontText, backText, time) {
     // Validate that frontText and backText are strings and that time is a number
